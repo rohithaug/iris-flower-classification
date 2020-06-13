@@ -30,7 +30,7 @@ The data set is available at https://archive.ics.uci.edu/ml/datasets/iris, the e
     
 Download and save the dataset into the same folder as this program.
 
-# Classification Models:<a name="models"></a>
+## Classification Models:<a name="models"></a>
 
 **Classification models** can be used to predict the dependent variable (**_class of each flower_**). Here we are going to use 4 different algorithms for classification namely, **K-Nearest Neighbours**, **Decision Tree**, **Support Vector Machine** and **Linear Regression**. Atlast we compare their accuracy to find the suitable classification technique for this problem. The given dataset is seperated into two seperate train and test sets. The train set is used to train the model, and the test set is used to predict the accuracy of each model. Finally, we compare the results. Here, 70% of the dataset was considered for training and 30% of the dataset for testing. 
 
