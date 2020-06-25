@@ -66,4 +66,4 @@ Refer [iris_decision_tree](iris_decision_tree.ipynb) for the code to visualize t
 
 I hope you found the project useful and interesting. Feel free to contact me if you have any queries or suggestions.
 
-This notebook was developed by [Rohith S P](https://www.linkedin.com/in/rohithsp/). 
+-- [Rohith S P](https://www.linkedin.com/in/rohithsp/) 
