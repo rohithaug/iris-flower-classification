@@ -62,13 +62,6 @@ The **final_model** computed here can be used to predict the class of the iris f
 Refer [iris_classification](iris_classification.ipynb) for the code to compare the Classification Models.  
 Refer [iris_decision_tree](iris_decision_tree.ipynb) for the code to visualize the Decision Tree Model.
 
-## Thank you
-
-I hope you found the project useful and interesting. ## Thank you
-
 I hope you found the project useful and interesting. Feel free to fork or download this project for your requirements.
 
 -- [Rohith S P](https://www.linkedin.com/in/rohithsp/)
-
-
--- [Rohith S P](https://www.linkedin.com/in/rohithsp/) 
